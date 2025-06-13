@@ -1,80 +1,42 @@
-<h1 align="center">¡Hola! 👋 Soy Juan Saul Pereyra Acedo</h1>
-
-<p align="center">
-  <strong>Desarrollador Backend Junior</strong> | Java 🧠 | Spring Boot 🌱 | ASP.NET Core 🛠️
-</p>
-
-<p align="center">
-  💻 Apasionado por el desarrollo backend y la creación de soluciones web eficientes y escalables. <br>
-  🎯 Siempre en busca de nuevas oportunidades para aprender y crecer profesionalmente. <br>
-</p>
+<h1 align="center">Hola 👋, soy Juan Saul Pereyra Acedo</h1>
+<h3 align="center">Desarrollador Backend Junior | Apasionado por Java con Spring Boot</h3>
 
 ---
 
-### 📍 Sobre mí
-
-- 🇵🇪 Vivo en Perú  
-- 📧 Escríbeme: [jpereyraacedo87@gmail.com](mailto:jpereyraacedo87@gmail.com)  
-- 🌱 Actualmente aprendiendo Angular y mejorando mis habilidades con Spring Boot  
-- 🤝 Abierto a colaborar en proyectos de desarrollo web o backend  
+🎓 Actualmente cursando el quinto ciclo de la carrera de Computación e Informática.  
+🚀 Enfocado en el desarrollo backend utilizando Java con Spring Boot.  
+🧠 Complemento mis estudios explorando tecnologías como C#, Angular y bases de datos relacionales y no relacionales.  
+🌱 Siempre en busca de nuevas oportunidades para aprender y desarrollarme en el mundo del desarrollo de software.  
+📫 Puedes contactarme en: **tuemail@example.com**  
+📍 Ubicación: Perú
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,angular,html,css,js,mysql,mongodb,postman,kotlin" alt="Tech Stack" />
+</div>
 
 ---
 
-### 🧠 Idiomas
+### 📚 Proyecto Académico
 
-- Español (nativo)
-- Inglés (básico)
-
----
-
-### 🧪 Proyectos académicos
-
-#### 📌 IntiTech – Desarrollador Full Stack  
-🗓️ Abril 2025 – Octubre 2025 | 📍 Lima, Perú  
-➡️ Participación activa en el desarrollo del backend (Spring Boot, MySQL) y frontend (Angular, HTML/CSS).
+**💼 IntiTech**  
+`Desarrollador Full Stack`  
+📍 Lima, Perú  
+🗓️ Abril 2025 – Octubre 2025  
+Participé en el desarrollo del backend y frontend utilizando Java con Spring Boot, Angular, MySQL y herramientas complementarias.
 
 ---
 
-### 📈 GitHub Stats
+### 🌐 Idiomas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" width="48%" />
-</p>
+- Español: Nativo  
+- Inglés: Básico
 
 ---
 
-### 💬 Frase que me representa
-
-> *"Cada línea de código es una oportunidad para aprender algo nuevo."*
-
----
-
-### 🚀 ¡Gracias por visitar mi perfil!
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&color=0e75b6&style=flat" alt="visit-count" />
-</p>
+<div align="center">
+  <strong>Gracias por visitar mi perfil 😊</strong>  
+</div>
