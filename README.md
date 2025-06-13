@@ -26,4 +26,4 @@
 
 ### 📊 GitHub Stats
 
-![Tu nombre de usuario GitHub stats](https://github-readme-stats.vercel.app/api?username=**TUNOMBREDEUSUARIO**&show_icons=true&theme=radical)
+![Tu nombre de usuario GitHub stats](https://github-readme-stats.vercel.app/api?username=**JuanSaul-Programador**&show_icons=true&theme=radical)
