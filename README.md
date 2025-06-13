@@ -1,13 +1,15 @@
-<h1 align="center">Hola 👋, soy Juan Saul Pereyra Acedo</h1>
+<h1 align="center">👋 Hola, soy Juan Saul Pereyra Acedo</h1>
 <h3 align="center">Desarrollador Backend Junior | Apasionado por Java con Spring Boot</h3>
 
 ---
 
-🎓 Actualmente cursando el quinto ciclo de la carrera de Computación e Informática.  
-🚀 Enfocado en el desarrollo backend utilizando Java con Spring Boot.  
-🧠 Complemento mis estudios explorando tecnologías como C#, Angular y bases de datos relacionales y no relacionales.  
-🌱 Siempre en busca de nuevas oportunidades para aprender y desarrollarme en el mundo del desarrollo de software.  
-📫 Puedes contactarme en: **jpereyraacedo87@gmail.com**  
+### 🧾 Sobre mí
+
+🎓 Estudiante de Computación e Informática (quinto ciclo).  
+🚀 Apasionado por el desarrollo backend con Java y Spring Boot.  
+🧠 En constante aprendizaje, también exploro tecnologías como C#, Angular, y bases de datos relacionales y no relacionales.  
+🌱 Siempre en busca de nuevas oportunidades para aprender y seguir creciendo en el mundo del desarrollo de software.  
+📫 Contacto: **jpereyraacedo87@gmail.com**  
 📍 Ubicación: Perú
 
 ---
@@ -26,17 +28,22 @@
 `Desarrollador Full Stack`  
 📍 Lima, Perú  
 🗓️ Abril 2025 – Mayo 2025  
-Participé en el desarrollo del backend y frontend utilizando Java con Spring Boot, Angular, MySQL y herramientas complementarias.
+
+Desarrollé funcionalidades tanto del backend como del frontend utilizando:  
+- Java + Spring Boot  
+- Angular  
+- MySQL  
+- Herramientas complementarias (Postman, etc.)
 
 ---
 
 ### 🌐 Idiomas
 
-- Español: Nativo  
-- Inglés: Básico
+- 🇪🇸 Español: Nativo  
+- 🇬🇧 Inglés: Básico
 
 ---
-<div align="center">
-  <strong>Con ganas de seguir creciendo, aprendiendo y aportando. ¡Vamos por más! 🚀</strong>
-</div>
 
+<div align="center">
+  <strong>Siempre con entusiasmo por aprender, crecer y aportar en el mundo del desarrollo. ¡Vamos por más! 🚀</strong>
+</div>
