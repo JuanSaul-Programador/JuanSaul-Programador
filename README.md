@@ -7,7 +7,7 @@
 🚀 Enfocado en el desarrollo backend utilizando Java con Spring Boot.  
 🧠 Complemento mis estudios explorando tecnologías como C#, Angular y bases de datos relacionales y no relacionales.  
 🌱 Siempre en busca de nuevas oportunidades para aprender y desarrollarme en el mundo del desarrollo de software.  
-📫 Puedes contactarme en: **tuemail@example.com**  
+📫 Puedes contactarme en: **jpereyraacedo87@gmail.com**  
 📍 Ubicación: Perú
 
 ---
@@ -25,7 +25,7 @@
 **💼 IntiTech**  
 `Desarrollador Full Stack`  
 📍 Lima, Perú  
-🗓️ Abril 2025 – Octubre 2025  
+🗓️ Abril 2025 – Mayo 2025  
 Participé en el desarrollo del backend y frontend utilizando Java con Spring Boot, Angular, MySQL y herramientas complementarias.
 
 ---
@@ -36,7 +36,7 @@ Participé en el desarrollo del backend y frontend utilizando Java con Spring Bo
 - Inglés: Básico
 
 ---
-
 <div align="center">
-  <strong>Gracias por visitar mi perfil 😊</strong>  
+  <strong>Con ganas de seguir creciendo, aprendiendo y aportando. ¡Vamos por más! 🚀</strong>
 </div>
+
