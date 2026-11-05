@@ -5,7 +5,7 @@
 
 ### 🧾 Sobre mí
 
-🎓 Estudiante de Computación e Informática (quinto ciclo).  
+🎓 Egresado de Computación e Informática.  
 🚀 Apasionado por el desarrollo backend con Java y Spring Boot.  
 🧠 En constante aprendizaje, también exploro tecnologías como C#, Angular, y bases de datos relacionales y no relacionales.  
 🌱 Siempre en busca de nuevas oportunidades para aprender y seguir creciendo en el mundo del desarrollo de software.  
